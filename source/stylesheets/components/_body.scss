@@ -1,0 +1,20 @@
+// body {
+//   color: black;
+//   background-color: white;
+//   background-image: url("http://valeriegeary.com/wp-content/uploads/2014/02/white-scratched-background-2074.png");
+//   // background-image: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg");
+// }
+
+h1 {
+  font-family: courier;
+  font-weight: bold;
+  color: black;
+  font-size: 50px;
+}
+body {
+  background: url("http://valeriegeary.com/wp-content/uploads/2014/02/white-scratched-background-2074.png") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
