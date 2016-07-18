@@ -4,6 +4,7 @@ gem 'middleman', '~> 3.4'
 
 # Deploy to GitHub Pages
 gem 'middleman-deploy', '~> 1.0'
+gem 'middleman-gh-pages'
 
 # Assets
 gem 'jquery-middleman'
