@@ -12,5 +12,6 @@ ENV['BUNDLE_GEMFILE'] ||= File.expand_path("../../Gemfile",
 
 require 'rubygems'
 require 'bundler/setup'
+require 'middleman-gh-pages'
 
 load Gem.bin_path('middleman-core', 'middleman')
